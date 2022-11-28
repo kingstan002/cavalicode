@@ -1,0 +1,170 @@
+.rows {
+    height: 40px;
+    color: white;
+    font-weight: bold;
+    padding-top: 7px;
+    font-size: 17px;
+}
+
+.sec2 {
+    height: 80px;
+}
+
+#sec2 {
+    padding-top: 13px;
+}
+
+.row a {
+    color: white;
+}
+
+.sec4 {
+    background-color: rgb(9, 63, 164);
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.cardd{
+    display: block;
+    border-radius: 10px;
+    
+}
+.cardd:hover{
+    box-shadow: 0px 0px 16px 0px #888888;
+    margin-top: 4px;
+}
+
+p{
+    color: #6d8394;
+    text-align: center;
+
+}
+span{
+    /* color: #6d8394; */
+    /* text-align: center; */
+    font-weight: lighter;
+}
+h3{
+    text-align: center;
+    font-size: 24px;
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h6{
+    font-family: Raleway,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: black;
+    text-align: center;
+    padding-top: 20px;
+
+  }
+
+  iframe{
+    height: 300px;
+    width: 400px;
+    box-shadow: 0px 0px 16px 0px #888888;
+    display: block;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#who{
+    margin-top: 20px;
+
+}
+
+#Youtube{
+    border: 7px solid rgb(40, 137, 249);
+}
+
+.Service{
+    padding-top: 70px;
+}
+
+.contactus {
+    height: 60px;
+    background-color: rgb(75, 75, 222);
+}
+.row1{
+    height: 200px;
+    
+}
+.row{
+    color: white;
+}
+.backwala{
+    background-image: url("../Images/founder2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    
+}
+
+
+.footer{
+  
+    background-color:black;
+  }
+  
+  .myfooter #footer .socialsection .social-links .fa-instagram{
+    color: #e84393;
+   background-color: #fff;
+    margin: 2px;
+    padding: 5px;
+  
+    transition: all 2s;
+  }
+  .myfooter #footer .socialsection .social-links .fa-instagram:hover{
+    transform: scale(2);
+  }
+  .myfooter #footer .socialsection .social-links .fa-youtube{
+    color: #e84118;
+    margin: 2px;
+    background-color: #fff;
+    padding: 5px;
+  
+    transition: all 2s;
+  }
+  .myfooter #footer .socialsection .social-links .fa-youtube:hover{
+    transform: scale(2);
+  }
+  .myfooter #footer .socialsection .social-links .fa-facebook{
+    background-color: #fff;
+    padding: 5px;
+    margin: 2px;
+  
+    transition: all 2s;
+    
+  }
+  .myfooter #footer .socialsection .social-links .fa-facebook:hover{
+    transform: scale(2);
+  }
+  .myfooter #footer .socialsection .social-links .fa-linkedin{
+    background-color: #fff;
+    margin: 2px;
+    padding: 5px;
+  
+    transition: all 2s;
+  }
+  .myfooter #footer .socialsection .social-links .fa-linkedin:hover{
+    transform: scale(2);
+  }
+  .myfooter #footer .socialsection .social-links .fa-twitter{
+    background-color: #fff;
+    margin: 2px;
+    padding: 5px;
+  
+    transition: all 2s;
+  }
+  .myfooter #footer .socialsection .social-links .fa-twitter:hover{
+    transform: scale(2);
+  }
+
+
+
+  .card{
+    background-color: #eeeded;
+  }
